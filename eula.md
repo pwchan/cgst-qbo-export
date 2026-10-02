@@ -6,7 +6,7 @@ permalink: /eula/
 
 # End-User License Agreement: Migration Exporter
 
-**Effective date:** [Date]
+**Effective date:** 2026-10-02
 
 ## 1. About this app
 
